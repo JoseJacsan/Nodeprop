@@ -73,6 +73,13 @@ img {max-width: 100%;}
     padding: 1.5% 3%;
 }
 
-.menu li a:hover {
-    border: 1px solid #DA6709;
+.menu li a:hover {border: 1px solid #DA6709;}
+
+/*BANNER*/
+.banner {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 3% 4%;
+    background: url(../img/bg.jpg) no-repeat fixed;
 }
