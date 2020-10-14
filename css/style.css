@@ -282,6 +282,8 @@ img {max-width: 100%;}
         float: none;
     }
 
+}    
+
 /*LARGE DEVICES - WIDESCREENS*/
 @media screen and (min-width: 1280px) {
     .btn-menu {display: none;}

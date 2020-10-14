@@ -1,3 +1,3 @@
 # Nodeprop
 
-Primeiro site responsivo criado
+Primeiro site responsivo criado por mim
